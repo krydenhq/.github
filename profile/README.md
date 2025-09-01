@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kryden-banner-primary-light-trans.png" alt="Project Kryden" width="600">
+  <img src="/assets/kryden-banner-primary-light-trans.png" alt="Project Kryden" width="600">
 </p>
 
 # Project Kryden
